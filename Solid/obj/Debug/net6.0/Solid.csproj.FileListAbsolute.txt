@@ -1,0 +1,15 @@
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/bin/Debug/net6.0/Solid
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/bin/Debug/net6.0/Solid.deps.json
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/bin/Debug/net6.0/Solid.runtimeconfig.json
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/bin/Debug/net6.0/Solid.dll
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/bin/Debug/net6.0/Solid.pdb
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/Solid.csproj.AssemblyReference.cache
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/Solid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/Solid.AssemblyInfoInputs.cache
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/Solid.AssemblyInfo.cs
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/Solid.csproj.CoreCompileInputs.cache
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/Solid.dll
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/refint/Solid.dll
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/Solid.pdb
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/Solid.genruntimeconfig.cache
+/Users/zekisahbaz/Desktop/Codes/Github/Solid.Example/Solid/obj/Debug/net6.0/ref/Solid.dll

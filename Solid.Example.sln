@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonSolid", "NonSolid\NonSolid.csproj", "{0464CC5C-DE8A-4753-95BA-F584844204F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid", "Solid\Solid.csproj", "{87C5D6B6-04CC-405C-AF6C-8F1F58FCC1DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0464CC5C-DE8A-4753-95BA-F584844204F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0464CC5C-DE8A-4753-95BA-F584844204F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0464CC5C-DE8A-4753-95BA-F584844204F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0464CC5C-DE8A-4753-95BA-F584844204F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C5D6B6-04CC-405C-AF6C-8F1F58FCC1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C5D6B6-04CC-405C-AF6C-8F1F58FCC1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C5D6B6-04CC-405C-AF6C-8F1F58FCC1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C5D6B6-04CC-405C-AF6C-8F1F58FCC1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
