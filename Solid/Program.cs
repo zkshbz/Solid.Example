@@ -5,6 +5,7 @@ using Solid.Notifications;
 
 Console.WriteLine("notification start");
 
+//this code will improve by using generic method etc. But its enough for SOLID :) 
 var mailNotification = new MailNotification("mail notification");
 NotificationSender.Notify(mailNotification);
 

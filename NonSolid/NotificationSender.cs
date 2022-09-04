@@ -5,6 +5,8 @@ namespace NonSolid;
 
 public static class NotificationSender
 {
+    //if statements OCP violate
+    //creating object with new DIP violate
     public static void Notify(int notificationType)
     {
         if (notificationType == 1)

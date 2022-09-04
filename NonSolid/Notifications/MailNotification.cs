@@ -7,6 +7,8 @@ namespace NonSolid.Notifications;
 
 public class MailNotification : NotificationBase, INotification
 {
+    //new keyword LSP violate
+    //creating client, creating message, setting body message SRP violate 
     public new void Notify()
     {
         var client = new SmtpClient("smtp-mail.outlook.com", 587);
@@ -24,6 +26,7 @@ public class MailNotification : NotificationBase, INotification
         client.Send(message);
     }
 
+    //unnecessary coding ISP violate
     public void WhatsAppApiCreate()
     {
         throw new NotImplementedException();
